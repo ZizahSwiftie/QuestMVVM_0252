@@ -4,4 +4,5 @@ Nama : Nur Azizah Ulinnuha
 NIM  : 20240140252
 
 ## Screenshot
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/0b89f027-4881-45e8-9c94-2a49990b966c" />
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/0a3349f3-8a06-459e-9cee-e24f1ee98cec" />
+
