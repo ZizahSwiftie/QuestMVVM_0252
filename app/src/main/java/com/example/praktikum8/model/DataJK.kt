@@ -1,4 +1,4 @@
-package com.example.praktikum8.module
+package com.example.praktikum8.model
 
 import com.example.praktikum8.R
 

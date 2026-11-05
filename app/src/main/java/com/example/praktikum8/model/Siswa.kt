@@ -1,4 +1,4 @@
-package com.example.praktikum8.module
+package com.example.praktikum8.model
 
 data class Siswa(
     val nama: String = "",
